@@ -11,6 +11,10 @@ This project contains code needed to build my own R package, based on the [Writi
 - R packages:
   - [devtools](https://www.r-project.org/nosvn/pandoc/devtools.html)
   - [roxygen2](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
+  
+## Authors
+
+- [Clare Gibson](https://www.surreydatagirl.com) - [surreydatagirl@gmail.com](mailto:surreydatagirl.com)
 
 ## Licence
 This project is licensed under the MIT licence. See the [LICENSE](./LICENSE) file for details.
