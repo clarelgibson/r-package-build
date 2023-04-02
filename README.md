@@ -6,6 +6,7 @@ This project contains code needed to build my own R package, based on the [Writi
 
 ## Getting Started
 ### Installation
+
 ```
 library(devtools) # Make sure that the devtools library is loaded
 install_github("clarelgibson/r-package-build");
